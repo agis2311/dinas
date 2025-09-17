@@ -1,0 +1,5 @@
+{
+  "name": "AI Product Photo Generator",
+  "description": "An AI-powered tool from the Dinas Koperasi dan UMKM Kabupaten Sukabumi to help users automatically generate professional product photos. Simply upload a product image, and the AI will enhance it to a professional studio quality.",
+  "requestFramePermissions": []
+}
